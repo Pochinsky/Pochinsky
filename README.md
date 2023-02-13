@@ -6,10 +6,6 @@ Mi nombre es Tomás Guttman, me dicen Guttman o Pochinsky, y este es mi perfil d
 - :open_file_folder: Proyectos de mis asignaturas de la universidad.
 - :mortar_board: Proyectos de cursos online que he realizado.
 
-Actualmente me encuentro aprendiendo Desarrollo de Software Front-end mediante el uso de las librerías de React JS :speak_no_evil:.
-
-Mi próximo proyecto personal es realizar mi portafolio laboral 👀.
-
 <br/>
 
 ## ✉️ Encuéntrame en:
